@@ -4,6 +4,8 @@
 Using PySpark to determine the average costs of homes based on factors sucn as number of rooms, view_rating and year_built 
 Not only address the below questions but to compare the speed response when using partition and cache methods 
 
+===============================
+
 What is the average price for a four-bedroom house sold for each year?
 
 What is the average price of a home for each year the home was built, that has three bedrooms and three bathrooms? 
